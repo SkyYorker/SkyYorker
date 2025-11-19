@@ -128,7 +128,6 @@
 ## 📞 Контакты
 
 - **Telegram:** [@skyyorke](https://t.me/SkyYorke)
-- **GitHub:** [Ваш GitHub профиль](https://github.com/SkyYorker)
 - **Email:** [skyyorker@gmail.com]
 
 ---
