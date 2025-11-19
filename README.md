@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут<a href="https://vk.com/skyyorker/" target="_blank">Александр</a> 
+<h1 align="center">Привет, меня зовут<a href="https://vk.com/skyyorker/" target="_blank"> Александр</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 [![codewars](https://www.codewars.com/users/SkyYorker/badges/large)](https://www.codewars.com/users/SkyYorker)
