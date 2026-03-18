@@ -1,4 +1,4 @@
-# Привет, я [Твое Имя]! 🚀
+# Привет, я Александр! 🚀
 ### Python Backend Developer | AI & ML Engineer
 
 Я создаю отказоустойчивые бэкенд-системы и интегрирую в них решения на базе искусственного интеллекта. Мой фокус — превращение сложных ML-моделей в работающие бизнес-сервисы.
@@ -60,31 +60,13 @@
 ---
 ### 🛠 Технологический стек
 
-<!-- Языки -->
 ![Python](https://img.shields.io)
-![Dart](https://img.shields.io)
-
-<!-- ML/DL Фреймворки -->
-![PyTorch](https://img.shields.io)
-![Scikit-Learn](https://img.shields.io)
-![Pandas](https://img.shields.io)
-![NumPy](https://img.shields.io)
-
-<!-- Backend -->
 ![FastAPI](https://img.shields.io)
 ![Django](https://img.shields.io)
+![PyTorch](https://img.shields.io)
 ![Redis](https://img.shields.io)
 ![PostgreSQL](https://img.shields.io)
-
-<!-- Web & Mobile -->
 ![Flutter](https://img.shields.io)
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
-
-<!-- Databases & Tools -->
-![SQLite](https://img.shields.io)
-![Git](https://img.shields.io)
-![Jupyter](https://img.shields.io)
 
 ### 📫 Контакты:
 *   **Telegram:** [@skyyorke](https://t.me)
