@@ -1,132 +1,92 @@
-<h1 align="center">Привет, меня зовут<a href="https://vk.com/skyyorker/" target="_blank"> Александр</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Привет, я [Твое Имя]! 🚀
+### Python Backend Developer | AI & ML Engineer
 
-[![codewars](https://www.codewars.com/users/SkyYorker/badges/large)](https://www.codewars.com/users/SkyYorker)
-
-
-# ML/DL-инженер
-
-🌍 **Я живу в Чебоксарах**
-
-📞 **Вы можете связаться со мной по TG:** [@skyyorke](https://t.me/SkyYorke)
+Я создаю отказоустойчивые бэкенд-системы и интегрирую в них решения на базе искусственного интеллекта. Мой фокус — превращение сложных ML-моделей в работающие бизнес-сервисы.
 
 ---
 
-## 👨‍💻 Обо мне
+### 🛠 Технологический стек
 
-Несколько лет назад я заинтересовался искусственным интеллектом и начал осваивать разработку нейросетей. Это направление привлекло меня своей перспективностью и возможностью решать сложные задачи, требующие сочетания аналитического мышления и креативности. Сейчас я активно стремлюсь применять свои знания для решения реальных бизнес-задач. 
-
----
-
-## 🚀 Проекты
-
-### PET и учебные проекты
-
-#### 🤖 Интеллектуальная система управления энергопотреблением умного дома
-**Deep Reinforcement Learning для оптимизации энергозатрат**
-
-- Реализовал и сравнил эффективность алгоритмов DQN, PPO и A2C
-- Спроектировал агента, принимающего решения о работе приборов с учетом тарифов, погоды и солнечной генерации
-- **Стек:** Python, PyTorch, Stable-Baselines3, Gymnasium, Pandas, NumPy
-- **🔗 Репозиторий:** [smart-home-energy-optimization](https://github.com/SkyYorker/smart-home-energy-optimization)
-
-#### ⚖️ RAG-ассистент (нейро-юрист) с защитой от галлюцинаций
-**Полная RAG-система с гибридным поиском**
-
-- Разработал RAG-систему с гибридным поиском (векторный ChromaDB + ключевой BM25)
-- Внедрил многоуровневую систему фильтрации и валидации ответов (HybridGuard)
-- **Стек:** Python, LangChain, Transformers (Phi-4), ChromaDB, Sentence Transformers
-- **🔗 Репозиторий:** [Rag_system-neuro_lawyer](https://github.com/SkyYorker/Rag_system-neuro_lawyer)
-
-#### 📱 Кроссплатформенное мобильное приложение AI Chat
-**Flutter приложение с интеграцией различных LLM**
-
-- Создал приложение с интеграцией различных LLM (OpenRouter, VSEGPT)
-- Реализовал локальное хранение данных, статистику использования и управление расходами
-- **Стек:** Dart, Flutter, REST API, SQLite
-- **🔗 Репозиторий:** [ai-chat-flutter](https://github.com/SkyYorker/ai-chat-flutter)
-
-#### 🎯 Сервисы для предсказания на структурированных данных
-**Модели для прогнозирования и диагностики**
-
-- Разработал модели для прогнозирования стоимости автомобилей и диагностики болезни Паркинсона
-- **Стек:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
-- **🔗 Репозитории:** 
-  - [Car_Price_AI](https://github.com/SkyYorker/Car_Price_AI) - Прогнозирование стоимости автомобилей
-  - [Parkinson-s-predicts](https://github.com/SkyYorker/Parkinson-s-predicts) - Диагностика болезни Паркинсона
-
-#### 🤖 Telegram бот для проведения викторин
-**Интерактивный бот с системой статистики**
-- Реализовал логику викторины, систему статистики и интерактивный интерфейс
-- **Стек:** Python, Aiogram, Asyncio, SQLite
-- **🔗 Репозиторий:** [Telegram_Bot](https://github.com/SkyYorker/Telegram_Bot)
-
-#### 📰 Обнаружение фальшивых новостей
-**Модель классификации новостей на достоверные и фальшивые**
-
-- Создал модель для классификации новостей на достоверные и фальшивые
-- **Стек:** Python, scikit-learn, pandas, NLTK, Jupyter Notebook
-- **🔗 Репозиторий:** [Fake_News_AI](https://github.com/SkyYorker/Fake_News_AI)
+*   **Backend:** Python (FastAPI, Django), PostgreSQL, Redis, Celery, WebSockets (Real-time).
+*   **AI / Machine Learning:** PyTorch, Scikit-learn, LangChain (RAG), Deep RL (Stable-Baselines3, Gymnasium).
+*   **Data & Automation:** Pandas, NumPy, BeautifulSoup, Selenium (Scraping), Aiogram (Bots).
+*   **Mobile:** Flutter (Dart) — разработка кроссплатформенных интерфейсов для ИИ-сервисов.
+*   **Tools:** Docker, Git, REST API, Asyncio, SQL.
 
 ---
 
-## 🎯 Моя цель
+### 💼 Коммерческий опыт
+**Backend Developer | Startup** *(текущее место работы, 8 месяцев)*
+*   **Архитектура:** Разработка и поддержка ядра системы на **Django** и **FastAPI**.
+*   **Асинхронность:** Построение очередей задач и фоновых процессов через **Celery + Redis**.
+*   **Real-time:** Реализация обмена данными через **WebSockets** для мгновенных уведомлений.
+*   **AI Integration:** Внедрение модулей генерации ИИ-отчетов (LLM) и автоматизация через Telegram-ботов.
+*   **Fintech:** Интеграция платежных систем и внешних сервисов с обработкой Webhooks.
 
-Перейти на позицию разработчика нейросетей, где я смогу объединить свой опыт работы с людьми, понимание технологий и навыки разработки, чтобы вносить вклад в инновационные проекты.
-
----
-
-## 📚 Образование и курсы
-
-**2024 - настоящее время** | **Разработчик нейросетей**  
-*The Founder (профессиональная переподготовка)*
-
-Я учусь год на курсе The Founder по разработке нейросетей. Релевантный опыт — это PET-проекты на GitHub.
-
----
-
-## 🛠️ Технологии и инструменты
-
-### Языки программирования
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### ML/DL фреймворки
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-000000?style=for-the-badge)
-
-### Библиотеки и инструменты
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Веб и мобильная разработка
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Базы данных
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
-
-### Другие инструменты
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Freelance / Independent Development**
+*   Разработка отказоустойчивых парсеров с обходом блокировок и постобработкой данных.
+*   Проектирование Telegram-ботов со сложной бизнес-логикой и интеграцией БД.
+*   Рефакторинг и оптимизация Desktop-приложений на Python.
 
 ---
 
-## 📞 Контакты
+### 🚀 Ключевые проекты (AI & ML)
 
-- **Telegram:** [@skyyorke](https://t.me/SkyYorke)
-- **Email:** [skyyorker@gmail.com]
+#### ⚖️ [RAG-ассистент «Нейро-юрист»](https://github.com)
+*Enterprise-ready RAG система с гибридным поиском.*
+- Внедрил систему **HybridGuard** для защиты от галлюцинаций.
+- Стек: LangChain, Transformers (Phi-4), ChromaDB, BM25.
+
+#### 🤖 [Smart Home Energy Optimization](https://github.com)
+*Deep Reinforcement Learning проект.*
+- Обучение агентов (PPO, DQN, A2C) в кастомной среде **Gymnasium** для минимизации затрат на электроэнергию.
+- Стек: PyTorch, Stable-Baselines3, Pandas.
+
+#### 📱 [AI Chat Mobile App](https://github.com)
+*Кроссплатформенное приложение для взаимодействия с LLM.*
+- Интеграция через OpenRouter, локальное хранение данных (SQLite) и аналитика расходов.
+- Стек: Flutter, Dart, REST API.
+
+#### 🎯 [ML Services: Price Prediction & Diagnostics](https://github.com)
+- Модели прогнозирования стоимости авто и диагностики болезней на основе структурированных данных.
+- Стек: Scikit-learn, Matplotlib, NumPy.
 
 ---
 
-*Последнее обновление: 2025*
+### 📚 Образование и развитие
+*   **2024 – настоящее время:** Профессиональная переподготовка «Разработчик нейросетей» (The Founder).
+*   Постоянное изучение SOTA подходов в NLP и Reinforcement Learning.
 
+---
+### 🛠 Технологический стек
 
+<!-- Языки -->
+![Python](https://img.shields.io)
+![Dart](https://img.shields.io)
 
+<!-- ML/DL Фреймворки -->
+![PyTorch](https://img.shields.io)
+![Scikit-Learn](https://img.shields.io)
+![Pandas](https://img.shields.io)
+![NumPy](https://img.shields.io)
 
+<!-- Backend -->
+![FastAPI](https://img.shields.io)
+![Django](https://img.shields.io)
+![Redis](https://img.shields.io)
+![PostgreSQL](https://img.shields.io)
+
+<!-- Web & Mobile -->
+![Flutter](https://img.shields.io)
+![HTML5](https://img.shields.io)
+![CSS3](https://img.shields.io)
+
+<!-- Databases & Tools -->
+![SQLite](https://img.shields.io)
+![Git](https://img.shields.io)
+![Jupyter](https://img.shields.io)
+
+### 📫 Контакты:
+*   **Telegram:** [@skyyorke](https://t.me)
+*   **Email:** [skyyorker@gmail.com](mailto:skyyorker@gmail.com)
+*   **Локация:** Чебоксары (Remote / Relocate)
