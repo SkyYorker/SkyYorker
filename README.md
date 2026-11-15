@@ -63,6 +63,8 @@
 
 ## Демо
 
+**[telegram-request-bot](https://github.com/SkyYorker/telegram-request-bot)** — бот приёма заявок: меню услуг, форма, уведомления администратору, статусы заявок. Код открыт, тесты прогоняются на GitHub Actions.
+
 **[Мурчащие корзинки](https://skyyorker.github.io/murcha/)** — играбельная головоломка-сортировка для Telegram. Можно открыть и поиграть прямо в браузере.
 
 ---
