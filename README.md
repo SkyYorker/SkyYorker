@@ -1,74 +1,83 @@
-# Привет, я Александр! 🚀
-### Python Backend Developer | AI & ML Engineer
+# Александр — Python-разработчик
 
-Я создаю масштабируемые бэкенд-системы и интегрирую в них решения на базе Machine Learning. Мой опыт охватывает полный цикл разработки: от проектирования асинхронной архитектуры до обучения нейросетей и разработки мобильных интерфейсов.
+Пишу Telegram-ботов и серверную часть: заявки, оплата, админка, интеграции, AI-ассистенты по документам.
 
----
-
-### 💼 Коммерческий опыт
-**Backend Developer | Startup** *(текущее место работы)*
-*   **Core Backend:** Разработка архитектуры на **Django** и **FastAPI**.
-*   **Infrastructure:** Построение очередей задач и фоновых процессов через **Celery + Redis**.
-*   **Real-time:** Внедрение **WebSockets** для мгновенного обмена данными.
-*   **AI Integration:** Разработка модулей генерации ИИ-отчетов (LLM) и автоматизация через Telegram-ботов.
-*   **Fintech:** Интеграция платежных систем и внешних API с обработкой Webhooks.
+**Связаться:** Telegram [@SkyYorke](https://t.me/SkyYorke) · skyyorker@gmail.com
 
 ---
 
-### 🚀 Проекты (AI & ML)
+## Что я делаю
 
-#### ⚖️ [RAG-ассистент «Нейро-юрист»](https://github.com)
-*Enterprise-ready RAG система с гибридным поиском.*
-- Реализовал гибридный поиск (ChromaDB + BM25) и систему защиты от галлюцинаций HybridGuard.
-- Стек: LangChain, Transformers, Phi-4.
+**Telegram-боты** — приём заявок, запись, каталог, оплата, подписки, админка для сотрудников.
 
-#### 🤖 [Smart Home Energy Optimization](https://github.com)
-*Deep Reinforcement Learning проект.*
-- Обучение агентов (PPO, DQN) в кастомной среде Gymnasium для минимизации энергозатрат.
-- Стек: PyTorch, Stable-Baselines3.
+**Интеграции и автоматизация** — связка сайта с CRM/1С/Google Sheets, вебхуки, парсеры, выгрузки.
 
-#### 📱 [AI Chat Mobile App](https://github.com)
-*Кроссплатформенное приложение на Flutter.*
-- Интеграция LLM (OpenRouter/VSEGPT), локальное хранение данных и аналитика расходов.
+**AI-ассистенты** — ответы по вашим документам со ссылкой на источник, разбор заявок, генерация отчётов.
+
+**Backend** — API на FastAPI и Django, фоновые задачи, уведомления в реальном времени.
 
 ---
 
-### 🛠 Технологический стек
+## Кейсы
 
-### Языки и фреймворки
-![Python](https://img.shields.io)
-![FastAPI](https://img.shields.io)
-![Django](https://img.shields.io)
-![PyTorch](https://img.shields.io)
+### Система управления очередью для сети сервисных центров
 
-### Библиотеки и инструменты ML
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+Посетитель берёт талон, табло показывает очередь, оператор вызывает следующего. Клиент получает уведомление, оплата проходит онлайн.
 
-### Инфраструктура и Бэкенд
-![Redis](https://img.shields.io)
-![Celery](https://img.shields.io)
-![PostgreSQL](https://img.shields.io)
-![Docker](https://img.shields.io)
+- роли и права: администратор, оператор, клиент — у каждого свой набор действий;
+- вход по номеру телефона с одноразовым кодом и двухфакторная защита;
+- вход через Яндекс для сотрудников;
+- онлайн-оплата через ЮKassa;
+- Telegram-бот для клиентов: запись, статус очереди, уведомления;
+- табло обновляется в реальном времени без перезагрузки страницы;
+- синхронизация с календарём и внешней системой по API;
+- отчёты по нагрузке и обслуживанию.
 
-### Веб и мобильная разработка
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+`Django` `DRF` `PostgreSQL` `Celery` `WebSocket` `ЮKassa` `Docker`
 
-### Базы данных
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
+### Telegram-бот для игрового сервера
 
-### Другие инструменты
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Бот управляет игровым сервером прямо из Telegram и закрывает всё, что обычно делается вручную через консоль.
+
+- подключение к серверу по игровому протоколу, команды из чата;
+- авторизация через Steam — доступ только своим;
+- инвентарь, лутбоксы и награды с сохранением прогресса;
+- приём платежей и автоматическая выдача покупок;
+- модерация, логи действий, панель для администраторов.
+
+`Python` `aiogram` `PostgreSQL` `Alembic` `Docker`
+
+### AI-ассистент в мобильном приложении
+
+Серверная часть для приложения с ИИ-агентами: несколько ролей ассистентов, история диалогов, обновления без переустановки приложения.
+
+- API для мобильного клиента на Django REST;
+- разные сценарии ассистентов под задачи пользователя;
+- потоковые ответы, чтобы текст появлялся сразу, а не после полной генерации;
+- обновление контента в приложении без публикации новой версии;
+- нагрузочное тестирование и подготовка к продакшену.
+
+`Django` `DRF` `LLM API` `PostgreSQL` `Docker` `Render`
 
 ---
 
-### 📫 Как со мной связаться:
-*   **Telegram:** [@skyyorke](https://t.me)
-*   **Email:** [skyyorker@gmail.com](mailto:skyyorker@gmail.com)
+## Демо
+
+**[Мурчащие корзинки](https://skyyorker.github.io/murcha/)** — играбельная головоломка-сортировка для Telegram. Можно открыть и поиграть прямо в браузере.
+
+---
+
+## Стек
+
+`Python` `FastAPI` `Django` `DRF` `aiogram` `SQLAlchemy` `PostgreSQL` `Redis` `Celery` `Docker` `WebSocket` `Playwright` `LLM / RAG`
+
+---
+
+## Как работаем
+
+1. Разбираем задачу и фиксируем, что входит в работу.
+2. Присылаю состав работ и цену. Дальше цена не меняется.
+3. Показываю результат по этапам.
+4. Передаю исходники, доступы и инструкцию по запуску.
+
+Пишите в Telegram — отвечу и скажу, реально ли сделать то, что задумали.
